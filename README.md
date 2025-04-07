@@ -3,6 +3,9 @@ Created this Dissolve effect I saw in a game using perlin noise, custom shaders 
 
 I've been learning GLSL and studying about shaders and particles for past few weeks now, was finally able to use it in this project.
 
+**Run** : https://dissolve-particles.vercel.app/ <br>
+View related post on [Twitter](https://x.com/0xJatinChopra/status/1884290238840988005) , [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7290130873146818561/)
+
 ## How it works
 - wrote a shader to modify the original material using perlin noise to get the dissolve effect
 - made a particle system to emit particles from edges of dissolving mesh
